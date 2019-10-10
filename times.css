@@ -41,6 +41,7 @@
     cursor: pointer;
     background-color: hsl(227, 52%, 60%); 
     padding:12px;
+    transition-duration: 0.5s; 
 }
 
 body{
@@ -139,6 +140,7 @@ hr{
 .cardnoticia:hover,.imagemnoticia:hover,.sidebarnoticia:hover{
     background-color: #cecece;
     cursor: pointer;
+    transition-duration: 0.5s;
 }
 
 .sidebarnoticia hr{
